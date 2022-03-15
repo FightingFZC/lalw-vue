@@ -1,10 +1,12 @@
 # lalw
 
 > A Vue.js project
+>
+> 后端：
 
 ## Build Setup
 
-``` bash
+```bash
 # install dependencies
 npm install
 
