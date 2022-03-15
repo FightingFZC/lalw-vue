@@ -2,7 +2,7 @@
 
 > A Vue.js project
 >
-> 后端：
+> 后端：[java后端代码](https://github.com/FightingFZC/lalw-java)
 
 ## Build Setup
 
